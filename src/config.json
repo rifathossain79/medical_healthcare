@@ -1,0 +1,20 @@
+{
+    "31337": {
+        "MedicalStorage": {
+            "address": "0xAf0385828df231068A3A36D51A48a9B42e724954"
+        },
+        "explorerURL": "#"
+    },
+    "11155111": {
+        "MedicalStorage": {
+            "address": "0xAf0385828df231068A3A36D51A48a9B42e724954"
+        },
+        "explorerURL": "https://sepolia.etherscan.io/"
+    },
+    "80001": {
+        "MedicalStorage": {
+            "address": "0xAf0385828df231068A3A36D51A48a9B42e724954"
+        },
+        "explorerURL": "https://mumbai.polygonscan.com/"
+    }
+}
